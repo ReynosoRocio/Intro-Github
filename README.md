@@ -3,4 +3,4 @@
  Session de github
 
 ### Insertamos una imagen
-![gatetes](IMG/cute.png)
+![gatetes](IMG/cute.jpg)
